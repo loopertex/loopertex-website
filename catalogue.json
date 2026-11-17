@@ -1,0 +1,5610 @@
+[
+  {
+    "name": "Infant Wear",
+    "subs": [
+      "Baby Boys",
+      "Baby Girls",
+      "Unisex"
+    ],
+    "items": [
+      {
+        "id": "LT-01-001",
+        "name": "Baby Boys Style 01",
+        "sub": "Baby Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-01-002",
+        "name": "Baby Girls Style 02",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-01-003",
+        "name": "Unisex Style 03",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-01-004",
+        "name": "Baby Boys Style 04",
+        "sub": "Baby Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-01-005",
+        "name": "Baby Girls Style 05",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-01-006",
+        "name": "Unisex Style 06",
+        "sub": "Unisex",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-01-007",
+        "name": "Baby Boys Style 07",
+        "sub": "Baby Boys",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-01-008",
+        "name": "Baby Girls Style 08",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-01-009",
+        "name": "Unisex Style 09",
+        "sub": "Unisex",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-01-010",
+        "name": "Baby Boys Style 10",
+        "sub": "Baby Boys",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-01-011",
+        "name": "Baby Girls Style 11",
+        "sub": "Baby Girls",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-01-012",
+        "name": "Unisex Style 12",
+        "sub": "Unisex",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-01-013",
+        "name": "Baby Boys Style 13",
+        "sub": "Baby Boys",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-01-014",
+        "name": "Baby Girls Style 14",
+        "sub": "Baby Girls",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-01-015",
+        "name": "Unisex Style 15",
+        "sub": "Unisex",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-01-016",
+        "name": "Baby Boys Style 16",
+        "sub": "Baby Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-01-017",
+        "name": "Baby Girls Style 17",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-01-018",
+        "name": "Unisex Style 18",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-01-019",
+        "name": "Baby Boys Style 19",
+        "sub": "Baby Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-01-020",
+        "name": "Baby Girls Style 20",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-01-021",
+        "name": "Unisex Style 21",
+        "sub": "Unisex",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-01-022",
+        "name": "Baby Boys Style 22",
+        "sub": "Baby Boys",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-01-023",
+        "name": "Baby Girls Style 23",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-01-024",
+        "name": "Unisex Style 24",
+        "sub": "Unisex",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-01-025",
+        "name": "Baby Boys Style 25",
+        "sub": "Baby Boys",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-01-026",
+        "name": "Baby Girls Style 26",
+        "sub": "Baby Girls",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-01-027",
+        "name": "Unisex Style 27",
+        "sub": "Unisex",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-01-028",
+        "name": "Baby Boys Style 28",
+        "sub": "Baby Boys",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-01-029",
+        "name": "Baby Girls Style 29",
+        "sub": "Baby Girls",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-01-030",
+        "name": "Unisex Style 30",
+        "sub": "Unisex",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-01-031",
+        "name": "Baby Boys Style 31",
+        "sub": "Baby Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-01-032",
+        "name": "Baby Girls Style 32",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-01-033",
+        "name": "Unisex Style 33",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-01-034",
+        "name": "Baby Boys Style 34",
+        "sub": "Baby Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-01-035",
+        "name": "Baby Girls Style 35",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-01-036",
+        "name": "Unisex Style 36",
+        "sub": "Unisex",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-01-037",
+        "name": "Baby Boys Style 37",
+        "sub": "Baby Boys",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-01-038",
+        "name": "Baby Girls Style 38",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-01-039",
+        "name": "Unisex Style 39",
+        "sub": "Unisex",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-01-040",
+        "name": "Baby Boys Style 40",
+        "sub": "Baby Boys",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-01-041",
+        "name": "Baby Girls Style 41",
+        "sub": "Baby Girls",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-01-042",
+        "name": "Unisex Style 42",
+        "sub": "Unisex",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-01-043",
+        "name": "Baby Boys Style 43",
+        "sub": "Baby Boys",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-01-044",
+        "name": "Baby Girls Style 44",
+        "sub": "Baby Girls",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-01-045",
+        "name": "Unisex Style 45",
+        "sub": "Unisex",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-01-046",
+        "name": "Baby Boys Style 46",
+        "sub": "Baby Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-01-047",
+        "name": "Baby Girls Style 47",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-01-048",
+        "name": "Unisex Style 48",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-01-049",
+        "name": "Baby Boys Style 49",
+        "sub": "Baby Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-01-050",
+        "name": "Baby Girls Style 50",
+        "sub": "Baby Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  },
+  {
+    "name": "Kids Wear",
+    "subs": [
+      "Boys",
+      "Girls",
+      "Unisex"
+    ],
+    "items": [
+      {
+        "id": "LT-02-001",
+        "name": "Boys Style 01",
+        "sub": "Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-02-002",
+        "name": "Girls Style 02",
+        "sub": "Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-02-003",
+        "name": "Unisex Style 03",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-02-004",
+        "name": "Boys Style 04",
+        "sub": "Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-02-005",
+        "name": "Girls Style 05",
+        "sub": "Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-02-006",
+        "name": "Unisex Style 06",
+        "sub": "Unisex",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-02-007",
+        "name": "Boys Style 07",
+        "sub": "Boys",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-02-008",
+        "name": "Girls Style 08",
+        "sub": "Girls",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-02-009",
+        "name": "Unisex Style 09",
+        "sub": "Unisex",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-02-010",
+        "name": "Boys Style 10",
+        "sub": "Boys",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-02-011",
+        "name": "Girls Style 11",
+        "sub": "Girls",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-02-012",
+        "name": "Unisex Style 12",
+        "sub": "Unisex",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-02-013",
+        "name": "Boys Style 13",
+        "sub": "Boys",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-02-014",
+        "name": "Girls Style 14",
+        "sub": "Girls",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-02-015",
+        "name": "Unisex Style 15",
+        "sub": "Unisex",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-02-016",
+        "name": "Boys Style 16",
+        "sub": "Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-02-017",
+        "name": "Girls Style 17",
+        "sub": "Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-02-018",
+        "name": "Unisex Style 18",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-02-019",
+        "name": "Boys Style 19",
+        "sub": "Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-02-020",
+        "name": "Girls Style 20",
+        "sub": "Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-02-021",
+        "name": "Unisex Style 21",
+        "sub": "Unisex",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-02-022",
+        "name": "Boys Style 22",
+        "sub": "Boys",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-02-023",
+        "name": "Girls Style 23",
+        "sub": "Girls",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-02-024",
+        "name": "Unisex Style 24",
+        "sub": "Unisex",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-02-025",
+        "name": "Boys Style 25",
+        "sub": "Boys",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-02-026",
+        "name": "Girls Style 26",
+        "sub": "Girls",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-02-027",
+        "name": "Unisex Style 27",
+        "sub": "Unisex",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-02-028",
+        "name": "Boys Style 28",
+        "sub": "Boys",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-02-029",
+        "name": "Girls Style 29",
+        "sub": "Girls",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-02-030",
+        "name": "Unisex Style 30",
+        "sub": "Unisex",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-02-031",
+        "name": "Boys Style 31",
+        "sub": "Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-02-032",
+        "name": "Girls Style 32",
+        "sub": "Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-02-033",
+        "name": "Unisex Style 33",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-02-034",
+        "name": "Boys Style 34",
+        "sub": "Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-02-035",
+        "name": "Girls Style 35",
+        "sub": "Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-02-036",
+        "name": "Unisex Style 36",
+        "sub": "Unisex",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-02-037",
+        "name": "Boys Style 37",
+        "sub": "Boys",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-02-038",
+        "name": "Girls Style 38",
+        "sub": "Girls",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-02-039",
+        "name": "Unisex Style 39",
+        "sub": "Unisex",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-02-040",
+        "name": "Boys Style 40",
+        "sub": "Boys",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-02-041",
+        "name": "Girls Style 41",
+        "sub": "Girls",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-02-042",
+        "name": "Unisex Style 42",
+        "sub": "Unisex",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-02-043",
+        "name": "Boys Style 43",
+        "sub": "Boys",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-02-044",
+        "name": "Girls Style 44",
+        "sub": "Girls",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-02-045",
+        "name": "Unisex Style 45",
+        "sub": "Unisex",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-02-046",
+        "name": "Boys Style 46",
+        "sub": "Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-02-047",
+        "name": "Girls Style 47",
+        "sub": "Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-02-048",
+        "name": "Unisex Style 48",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-02-049",
+        "name": "Boys Style 49",
+        "sub": "Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-02-050",
+        "name": "Girls Style 50",
+        "sub": "Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  },
+  {
+    "name": "Bottom Wear",
+    "subs": [
+      "Shorts",
+      "Joggers",
+      "Leggings",
+      "Pants"
+    ],
+    "items": [
+      {
+        "id": "LT-03-001",
+        "name": "Shorts Style 01",
+        "sub": "Shorts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-03-002",
+        "name": "Joggers Style 02",
+        "sub": "Joggers",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-03-003",
+        "name": "Leggings Style 03",
+        "sub": "Leggings",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-03-004",
+        "name": "Pants Style 04",
+        "sub": "Pants",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-03-005",
+        "name": "Shorts Style 05",
+        "sub": "Shorts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-03-006",
+        "name": "Joggers Style 06",
+        "sub": "Joggers",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-03-007",
+        "name": "Leggings Style 07",
+        "sub": "Leggings",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-03-008",
+        "name": "Pants Style 08",
+        "sub": "Pants",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-03-009",
+        "name": "Shorts Style 09",
+        "sub": "Shorts",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-03-010",
+        "name": "Joggers Style 10",
+        "sub": "Joggers",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-03-011",
+        "name": "Leggings Style 11",
+        "sub": "Leggings",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-03-012",
+        "name": "Pants Style 12",
+        "sub": "Pants",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-03-013",
+        "name": "Shorts Style 13",
+        "sub": "Shorts",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-03-014",
+        "name": "Joggers Style 14",
+        "sub": "Joggers",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-03-015",
+        "name": "Leggings Style 15",
+        "sub": "Leggings",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-03-016",
+        "name": "Pants Style 16",
+        "sub": "Pants",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-03-017",
+        "name": "Shorts Style 17",
+        "sub": "Shorts",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-03-018",
+        "name": "Joggers Style 18",
+        "sub": "Joggers",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-03-019",
+        "name": "Leggings Style 19",
+        "sub": "Leggings",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-03-020",
+        "name": "Pants Style 20",
+        "sub": "Pants",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-03-021",
+        "name": "Shorts Style 21",
+        "sub": "Shorts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-03-022",
+        "name": "Joggers Style 22",
+        "sub": "Joggers",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-03-023",
+        "name": "Leggings Style 23",
+        "sub": "Leggings",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-03-024",
+        "name": "Pants Style 24",
+        "sub": "Pants",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-03-025",
+        "name": "Shorts Style 25",
+        "sub": "Shorts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-03-026",
+        "name": "Joggers Style 26",
+        "sub": "Joggers",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-03-027",
+        "name": "Leggings Style 27",
+        "sub": "Leggings",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-03-028",
+        "name": "Pants Style 28",
+        "sub": "Pants",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-03-029",
+        "name": "Shorts Style 29",
+        "sub": "Shorts",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-03-030",
+        "name": "Joggers Style 30",
+        "sub": "Joggers",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-03-031",
+        "name": "Leggings Style 31",
+        "sub": "Leggings",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-03-032",
+        "name": "Pants Style 32",
+        "sub": "Pants",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-03-033",
+        "name": "Shorts Style 33",
+        "sub": "Shorts",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-03-034",
+        "name": "Joggers Style 34",
+        "sub": "Joggers",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-03-035",
+        "name": "Leggings Style 35",
+        "sub": "Leggings",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-03-036",
+        "name": "Pants Style 36",
+        "sub": "Pants",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-03-037",
+        "name": "Shorts Style 37",
+        "sub": "Shorts",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-03-038",
+        "name": "Joggers Style 38",
+        "sub": "Joggers",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-03-039",
+        "name": "Leggings Style 39",
+        "sub": "Leggings",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-03-040",
+        "name": "Pants Style 40",
+        "sub": "Pants",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-03-041",
+        "name": "Shorts Style 41",
+        "sub": "Shorts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-03-042",
+        "name": "Joggers Style 42",
+        "sub": "Joggers",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-03-043",
+        "name": "Leggings Style 43",
+        "sub": "Leggings",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-03-044",
+        "name": "Pants Style 44",
+        "sub": "Pants",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-03-045",
+        "name": "Shorts Style 45",
+        "sub": "Shorts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-03-046",
+        "name": "Joggers Style 46",
+        "sub": "Joggers",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-03-047",
+        "name": "Leggings Style 47",
+        "sub": "Leggings",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-03-048",
+        "name": "Pants Style 48",
+        "sub": "Pants",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-03-049",
+        "name": "Shorts Style 49",
+        "sub": "Shorts",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-03-050",
+        "name": "Joggers Style 50",
+        "sub": "Joggers",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  },
+  {
+    "name": "Socks Wear",
+    "subs": [
+      "Baby Socks",
+      "Kids Socks"
+    ],
+    "items": [
+      {
+        "id": "LT-04-001",
+        "name": "Baby Socks Style 01",
+        "sub": "Baby Socks",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-04-002",
+        "name": "Kids Socks Style 02",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-04-003",
+        "name": "Baby Socks Style 03",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-04-004",
+        "name": "Kids Socks Style 04",
+        "sub": "Kids Socks",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-04-005",
+        "name": "Baby Socks Style 05",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-04-006",
+        "name": "Kids Socks Style 06",
+        "sub": "Kids Socks",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-04-007",
+        "name": "Baby Socks Style 07",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-04-008",
+        "name": "Kids Socks Style 08",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-04-009",
+        "name": "Baby Socks Style 09",
+        "sub": "Baby Socks",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-04-010",
+        "name": "Kids Socks Style 10",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-04-011",
+        "name": "Baby Socks Style 11",
+        "sub": "Baby Socks",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-04-012",
+        "name": "Kids Socks Style 12",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-04-013",
+        "name": "Baby Socks Style 13",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-04-014",
+        "name": "Kids Socks Style 14",
+        "sub": "Kids Socks",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-04-015",
+        "name": "Baby Socks Style 15",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-04-016",
+        "name": "Kids Socks Style 16",
+        "sub": "Kids Socks",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-04-017",
+        "name": "Baby Socks Style 17",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-04-018",
+        "name": "Kids Socks Style 18",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-04-019",
+        "name": "Baby Socks Style 19",
+        "sub": "Baby Socks",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-04-020",
+        "name": "Kids Socks Style 20",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-04-021",
+        "name": "Baby Socks Style 21",
+        "sub": "Baby Socks",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-04-022",
+        "name": "Kids Socks Style 22",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-04-023",
+        "name": "Baby Socks Style 23",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-04-024",
+        "name": "Kids Socks Style 24",
+        "sub": "Kids Socks",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-04-025",
+        "name": "Baby Socks Style 25",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-04-026",
+        "name": "Kids Socks Style 26",
+        "sub": "Kids Socks",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-04-027",
+        "name": "Baby Socks Style 27",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-04-028",
+        "name": "Kids Socks Style 28",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-04-029",
+        "name": "Baby Socks Style 29",
+        "sub": "Baby Socks",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-04-030",
+        "name": "Kids Socks Style 30",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-04-031",
+        "name": "Baby Socks Style 31",
+        "sub": "Baby Socks",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-04-032",
+        "name": "Kids Socks Style 32",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-04-033",
+        "name": "Baby Socks Style 33",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-04-034",
+        "name": "Kids Socks Style 34",
+        "sub": "Kids Socks",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-04-035",
+        "name": "Baby Socks Style 35",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-04-036",
+        "name": "Kids Socks Style 36",
+        "sub": "Kids Socks",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-04-037",
+        "name": "Baby Socks Style 37",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-04-038",
+        "name": "Kids Socks Style 38",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-04-039",
+        "name": "Baby Socks Style 39",
+        "sub": "Baby Socks",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-04-040",
+        "name": "Kids Socks Style 40",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-04-041",
+        "name": "Baby Socks Style 41",
+        "sub": "Baby Socks",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-04-042",
+        "name": "Kids Socks Style 42",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-04-043",
+        "name": "Baby Socks Style 43",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-04-044",
+        "name": "Kids Socks Style 44",
+        "sub": "Kids Socks",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-04-045",
+        "name": "Baby Socks Style 45",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-04-046",
+        "name": "Kids Socks Style 46",
+        "sub": "Kids Socks",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-04-047",
+        "name": "Baby Socks Style 47",
+        "sub": "Baby Socks",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-04-048",
+        "name": "Kids Socks Style 48",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-04-049",
+        "name": "Baby Socks Style 49",
+        "sub": "Baby Socks",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-04-050",
+        "name": "Kids Socks Style 50",
+        "sub": "Kids Socks",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  },
+  {
+    "name": "Pyjama Sets",
+    "subs": [
+      "Boys",
+      "Girls",
+      "Unisex"
+    ],
+    "items": [
+      {
+        "id": "LT-05-001",
+        "name": "Boys Style 01",
+        "sub": "Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-05-002",
+        "name": "Girls Style 02",
+        "sub": "Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-05-003",
+        "name": "Unisex Style 03",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-05-004",
+        "name": "Boys Style 04",
+        "sub": "Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-05-005",
+        "name": "Girls Style 05",
+        "sub": "Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-05-006",
+        "name": "Unisex Style 06",
+        "sub": "Unisex",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-05-007",
+        "name": "Boys Style 07",
+        "sub": "Boys",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-05-008",
+        "name": "Girls Style 08",
+        "sub": "Girls",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-05-009",
+        "name": "Unisex Style 09",
+        "sub": "Unisex",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-05-010",
+        "name": "Boys Style 10",
+        "sub": "Boys",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-05-011",
+        "name": "Girls Style 11",
+        "sub": "Girls",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-05-012",
+        "name": "Unisex Style 12",
+        "sub": "Unisex",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-05-013",
+        "name": "Boys Style 13",
+        "sub": "Boys",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-05-014",
+        "name": "Girls Style 14",
+        "sub": "Girls",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-05-015",
+        "name": "Unisex Style 15",
+        "sub": "Unisex",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-05-016",
+        "name": "Boys Style 16",
+        "sub": "Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-05-017",
+        "name": "Girls Style 17",
+        "sub": "Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-05-018",
+        "name": "Unisex Style 18",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-05-019",
+        "name": "Boys Style 19",
+        "sub": "Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-05-020",
+        "name": "Girls Style 20",
+        "sub": "Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-05-021",
+        "name": "Unisex Style 21",
+        "sub": "Unisex",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-05-022",
+        "name": "Boys Style 22",
+        "sub": "Boys",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-05-023",
+        "name": "Girls Style 23",
+        "sub": "Girls",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-05-024",
+        "name": "Unisex Style 24",
+        "sub": "Unisex",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-05-025",
+        "name": "Boys Style 25",
+        "sub": "Boys",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-05-026",
+        "name": "Girls Style 26",
+        "sub": "Girls",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-05-027",
+        "name": "Unisex Style 27",
+        "sub": "Unisex",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-05-028",
+        "name": "Boys Style 28",
+        "sub": "Boys",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-05-029",
+        "name": "Girls Style 29",
+        "sub": "Girls",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-05-030",
+        "name": "Unisex Style 30",
+        "sub": "Unisex",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-05-031",
+        "name": "Boys Style 31",
+        "sub": "Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-05-032",
+        "name": "Girls Style 32",
+        "sub": "Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-05-033",
+        "name": "Unisex Style 33",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-05-034",
+        "name": "Boys Style 34",
+        "sub": "Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-05-035",
+        "name": "Girls Style 35",
+        "sub": "Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-05-036",
+        "name": "Unisex Style 36",
+        "sub": "Unisex",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-05-037",
+        "name": "Boys Style 37",
+        "sub": "Boys",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-05-038",
+        "name": "Girls Style 38",
+        "sub": "Girls",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-05-039",
+        "name": "Unisex Style 39",
+        "sub": "Unisex",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-05-040",
+        "name": "Boys Style 40",
+        "sub": "Boys",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-05-041",
+        "name": "Girls Style 41",
+        "sub": "Girls",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-05-042",
+        "name": "Unisex Style 42",
+        "sub": "Unisex",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-05-043",
+        "name": "Boys Style 43",
+        "sub": "Boys",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-05-044",
+        "name": "Girls Style 44",
+        "sub": "Girls",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-05-045",
+        "name": "Unisex Style 45",
+        "sub": "Unisex",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-05-046",
+        "name": "Boys Style 46",
+        "sub": "Boys",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-05-047",
+        "name": "Girls Style 47",
+        "sub": "Girls",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-05-048",
+        "name": "Unisex Style 48",
+        "sub": "Unisex",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-05-049",
+        "name": "Boys Style 49",
+        "sub": "Boys",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-05-050",
+        "name": "Girls Style 50",
+        "sub": "Girls",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  },
+  {
+    "name": "Women's Wear",
+    "subs": [
+      "Tops",
+      "Leggings",
+      "Casual Wear"
+    ],
+    "items": [
+      {
+        "id": "LT-06-001",
+        "name": "Tops Style 01",
+        "sub": "Tops",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-06-002",
+        "name": "Leggings Style 02",
+        "sub": "Leggings",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-06-003",
+        "name": "Casual Wear Style 03",
+        "sub": "Casual Wear",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-06-004",
+        "name": "Tops Style 04",
+        "sub": "Tops",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-06-005",
+        "name": "Leggings Style 05",
+        "sub": "Leggings",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-06-006",
+        "name": "Casual Wear Style 06",
+        "sub": "Casual Wear",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-06-007",
+        "name": "Tops Style 07",
+        "sub": "Tops",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-06-008",
+        "name": "Leggings Style 08",
+        "sub": "Leggings",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-06-009",
+        "name": "Casual Wear Style 09",
+        "sub": "Casual Wear",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-06-010",
+        "name": "Tops Style 10",
+        "sub": "Tops",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-06-011",
+        "name": "Leggings Style 11",
+        "sub": "Leggings",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-06-012",
+        "name": "Casual Wear Style 12",
+        "sub": "Casual Wear",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-06-013",
+        "name": "Tops Style 13",
+        "sub": "Tops",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-06-014",
+        "name": "Leggings Style 14",
+        "sub": "Leggings",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-06-015",
+        "name": "Casual Wear Style 15",
+        "sub": "Casual Wear",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-06-016",
+        "name": "Tops Style 16",
+        "sub": "Tops",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-06-017",
+        "name": "Leggings Style 17",
+        "sub": "Leggings",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-06-018",
+        "name": "Casual Wear Style 18",
+        "sub": "Casual Wear",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-06-019",
+        "name": "Tops Style 19",
+        "sub": "Tops",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-06-020",
+        "name": "Leggings Style 20",
+        "sub": "Leggings",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-06-021",
+        "name": "Casual Wear Style 21",
+        "sub": "Casual Wear",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-06-022",
+        "name": "Tops Style 22",
+        "sub": "Tops",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-06-023",
+        "name": "Leggings Style 23",
+        "sub": "Leggings",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-06-024",
+        "name": "Casual Wear Style 24",
+        "sub": "Casual Wear",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-06-025",
+        "name": "Tops Style 25",
+        "sub": "Tops",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-06-026",
+        "name": "Leggings Style 26",
+        "sub": "Leggings",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-06-027",
+        "name": "Casual Wear Style 27",
+        "sub": "Casual Wear",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-06-028",
+        "name": "Tops Style 28",
+        "sub": "Tops",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-06-029",
+        "name": "Leggings Style 29",
+        "sub": "Leggings",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-06-030",
+        "name": "Casual Wear Style 30",
+        "sub": "Casual Wear",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-06-031",
+        "name": "Tops Style 31",
+        "sub": "Tops",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-06-032",
+        "name": "Leggings Style 32",
+        "sub": "Leggings",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-06-033",
+        "name": "Casual Wear Style 33",
+        "sub": "Casual Wear",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-06-034",
+        "name": "Tops Style 34",
+        "sub": "Tops",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-06-035",
+        "name": "Leggings Style 35",
+        "sub": "Leggings",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-06-036",
+        "name": "Casual Wear Style 36",
+        "sub": "Casual Wear",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-06-037",
+        "name": "Tops Style 37",
+        "sub": "Tops",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-06-038",
+        "name": "Leggings Style 38",
+        "sub": "Leggings",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-06-039",
+        "name": "Casual Wear Style 39",
+        "sub": "Casual Wear",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-06-040",
+        "name": "Tops Style 40",
+        "sub": "Tops",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-06-041",
+        "name": "Leggings Style 41",
+        "sub": "Leggings",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-06-042",
+        "name": "Casual Wear Style 42",
+        "sub": "Casual Wear",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-06-043",
+        "name": "Tops Style 43",
+        "sub": "Tops",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-06-044",
+        "name": "Leggings Style 44",
+        "sub": "Leggings",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-06-045",
+        "name": "Casual Wear Style 45",
+        "sub": "Casual Wear",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-06-046",
+        "name": "Tops Style 46",
+        "sub": "Tops",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-06-047",
+        "name": "Leggings Style 47",
+        "sub": "Leggings",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-06-048",
+        "name": "Casual Wear Style 48",
+        "sub": "Casual Wear",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-06-049",
+        "name": "Tops Style 49",
+        "sub": "Tops",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-06-050",
+        "name": "Leggings Style 50",
+        "sub": "Leggings",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  },
+  {
+    "name": "Women's Nightwear",
+    "subs": [
+      "Night Suits",
+      "Night Dresses",
+      "Pyjama Sets"
+    ],
+    "items": [
+      {
+        "id": "LT-07-001",
+        "name": "Night Suits Style 01",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-07-002",
+        "name": "Night Dresses Style 02",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-07-003",
+        "name": "Pyjama Sets Style 03",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-07-004",
+        "name": "Night Suits Style 04",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-07-005",
+        "name": "Night Dresses Style 05",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-07-006",
+        "name": "Pyjama Sets Style 06",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-07-007",
+        "name": "Night Suits Style 07",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-07-008",
+        "name": "Night Dresses Style 08",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-07-009",
+        "name": "Pyjama Sets Style 09",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-07-010",
+        "name": "Night Suits Style 10",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-07-011",
+        "name": "Night Dresses Style 11",
+        "sub": "Night Dresses",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-07-012",
+        "name": "Pyjama Sets Style 12",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-07-013",
+        "name": "Night Suits Style 13",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-07-014",
+        "name": "Night Dresses Style 14",
+        "sub": "Night Dresses",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-07-015",
+        "name": "Pyjama Sets Style 15",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-07-016",
+        "name": "Night Suits Style 16",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-07-017",
+        "name": "Night Dresses Style 17",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-07-018",
+        "name": "Pyjama Sets Style 18",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-07-019",
+        "name": "Night Suits Style 19",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-07-020",
+        "name": "Night Dresses Style 20",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-07-021",
+        "name": "Pyjama Sets Style 21",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-07-022",
+        "name": "Night Suits Style 22",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-07-023",
+        "name": "Night Dresses Style 23",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-07-024",
+        "name": "Pyjama Sets Style 24",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-07-025",
+        "name": "Night Suits Style 25",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-07-026",
+        "name": "Night Dresses Style 26",
+        "sub": "Night Dresses",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-07-027",
+        "name": "Pyjama Sets Style 27",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-07-028",
+        "name": "Night Suits Style 28",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-07-029",
+        "name": "Night Dresses Style 29",
+        "sub": "Night Dresses",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-07-030",
+        "name": "Pyjama Sets Style 30",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-07-031",
+        "name": "Night Suits Style 31",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-07-032",
+        "name": "Night Dresses Style 32",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-07-033",
+        "name": "Pyjama Sets Style 33",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-07-034",
+        "name": "Night Suits Style 34",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-07-035",
+        "name": "Night Dresses Style 35",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-07-036",
+        "name": "Pyjama Sets Style 36",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-07-037",
+        "name": "Night Suits Style 37",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-07-038",
+        "name": "Night Dresses Style 38",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-07-039",
+        "name": "Pyjama Sets Style 39",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-07-040",
+        "name": "Night Suits Style 40",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-07-041",
+        "name": "Night Dresses Style 41",
+        "sub": "Night Dresses",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-07-042",
+        "name": "Pyjama Sets Style 42",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-07-043",
+        "name": "Night Suits Style 43",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-07-044",
+        "name": "Night Dresses Style 44",
+        "sub": "Night Dresses",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-07-045",
+        "name": "Pyjama Sets Style 45",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-07-046",
+        "name": "Night Suits Style 46",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-07-047",
+        "name": "Night Dresses Style 47",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-07-048",
+        "name": "Pyjama Sets Style 48",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-07-049",
+        "name": "Night Suits Style 49",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-07-050",
+        "name": "Night Dresses Style 50",
+        "sub": "Night Dresses",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  },
+  {
+    "name": "Boys Wear",
+    "subs": [
+      "T-Shirts",
+      "Polo T-Shirts",
+      "Shorts"
+    ],
+    "items": [
+      {
+        "id": "LT-08-001",
+        "name": "T-Shirts Style 01",
+        "sub": "T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-08-002",
+        "name": "Polo T-Shirts Style 02",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-08-003",
+        "name": "Shorts Style 03",
+        "sub": "Shorts",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-08-004",
+        "name": "T-Shirts Style 04",
+        "sub": "T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-08-005",
+        "name": "Polo T-Shirts Style 05",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-08-006",
+        "name": "Shorts Style 06",
+        "sub": "Shorts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-08-007",
+        "name": "T-Shirts Style 07",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-08-008",
+        "name": "Polo T-Shirts Style 08",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-08-009",
+        "name": "Shorts Style 09",
+        "sub": "Shorts",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-08-010",
+        "name": "T-Shirts Style 10",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-08-011",
+        "name": "Polo T-Shirts Style 11",
+        "sub": "Polo T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-08-012",
+        "name": "Shorts Style 12",
+        "sub": "Shorts",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-08-013",
+        "name": "T-Shirts Style 13",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-08-014",
+        "name": "Polo T-Shirts Style 14",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-08-015",
+        "name": "Shorts Style 15",
+        "sub": "Shorts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-08-016",
+        "name": "T-Shirts Style 16",
+        "sub": "T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-08-017",
+        "name": "Polo T-Shirts Style 17",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-08-018",
+        "name": "Shorts Style 18",
+        "sub": "Shorts",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-08-019",
+        "name": "T-Shirts Style 19",
+        "sub": "T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-08-020",
+        "name": "Polo T-Shirts Style 20",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-08-021",
+        "name": "Shorts Style 21",
+        "sub": "Shorts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-08-022",
+        "name": "T-Shirts Style 22",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-08-023",
+        "name": "Polo T-Shirts Style 23",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-08-024",
+        "name": "Shorts Style 24",
+        "sub": "Shorts",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-08-025",
+        "name": "T-Shirts Style 25",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-08-026",
+        "name": "Polo T-Shirts Style 26",
+        "sub": "Polo T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-08-027",
+        "name": "Shorts Style 27",
+        "sub": "Shorts",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-08-028",
+        "name": "T-Shirts Style 28",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-08-029",
+        "name": "Polo T-Shirts Style 29",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-08-030",
+        "name": "Shorts Style 30",
+        "sub": "Shorts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-08-031",
+        "name": "T-Shirts Style 31",
+        "sub": "T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-08-032",
+        "name": "Polo T-Shirts Style 32",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-08-033",
+        "name": "Shorts Style 33",
+        "sub": "Shorts",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-08-034",
+        "name": "T-Shirts Style 34",
+        "sub": "T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-08-035",
+        "name": "Polo T-Shirts Style 35",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-08-036",
+        "name": "Shorts Style 36",
+        "sub": "Shorts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-08-037",
+        "name": "T-Shirts Style 37",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-08-038",
+        "name": "Polo T-Shirts Style 38",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-08-039",
+        "name": "Shorts Style 39",
+        "sub": "Shorts",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-08-040",
+        "name": "T-Shirts Style 40",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-08-041",
+        "name": "Polo T-Shirts Style 41",
+        "sub": "Polo T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-08-042",
+        "name": "Shorts Style 42",
+        "sub": "Shorts",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-08-043",
+        "name": "T-Shirts Style 43",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-08-044",
+        "name": "Polo T-Shirts Style 44",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-08-045",
+        "name": "Shorts Style 45",
+        "sub": "Shorts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-08-046",
+        "name": "T-Shirts Style 46",
+        "sub": "T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-08-047",
+        "name": "Polo T-Shirts Style 47",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-08-048",
+        "name": "Shorts Style 48",
+        "sub": "Shorts",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-08-049",
+        "name": "T-Shirts Style 49",
+        "sub": "T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-08-050",
+        "name": "Polo T-Shirts Style 50",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  },
+  {
+    "name": "Boys Nightwear",
+    "subs": [
+      "Night Suits",
+      "Pyjama Sets"
+    ],
+    "items": [
+      {
+        "id": "LT-09-001",
+        "name": "Night Suits Style 01",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-09-002",
+        "name": "Pyjama Sets Style 02",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-09-003",
+        "name": "Night Suits Style 03",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-09-004",
+        "name": "Pyjama Sets Style 04",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-09-005",
+        "name": "Night Suits Style 05",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-09-006",
+        "name": "Pyjama Sets Style 06",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-09-007",
+        "name": "Night Suits Style 07",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-09-008",
+        "name": "Pyjama Sets Style 08",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-09-009",
+        "name": "Night Suits Style 09",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-09-010",
+        "name": "Pyjama Sets Style 10",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-09-011",
+        "name": "Night Suits Style 11",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-09-012",
+        "name": "Pyjama Sets Style 12",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-09-013",
+        "name": "Night Suits Style 13",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-09-014",
+        "name": "Pyjama Sets Style 14",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-09-015",
+        "name": "Night Suits Style 15",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-09-016",
+        "name": "Pyjama Sets Style 16",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-09-017",
+        "name": "Night Suits Style 17",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-09-018",
+        "name": "Pyjama Sets Style 18",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-09-019",
+        "name": "Night Suits Style 19",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-09-020",
+        "name": "Pyjama Sets Style 20",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-09-021",
+        "name": "Night Suits Style 21",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-09-022",
+        "name": "Pyjama Sets Style 22",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-09-023",
+        "name": "Night Suits Style 23",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-09-024",
+        "name": "Pyjama Sets Style 24",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-09-025",
+        "name": "Night Suits Style 25",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-09-026",
+        "name": "Pyjama Sets Style 26",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-09-027",
+        "name": "Night Suits Style 27",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-09-028",
+        "name": "Pyjama Sets Style 28",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-09-029",
+        "name": "Night Suits Style 29",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-09-030",
+        "name": "Pyjama Sets Style 30",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-09-031",
+        "name": "Night Suits Style 31",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-09-032",
+        "name": "Pyjama Sets Style 32",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-09-033",
+        "name": "Night Suits Style 33",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-09-034",
+        "name": "Pyjama Sets Style 34",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-09-035",
+        "name": "Night Suits Style 35",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-09-036",
+        "name": "Pyjama Sets Style 36",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-09-037",
+        "name": "Night Suits Style 37",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-09-038",
+        "name": "Pyjama Sets Style 38",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-09-039",
+        "name": "Night Suits Style 39",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-09-040",
+        "name": "Pyjama Sets Style 40",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-09-041",
+        "name": "Night Suits Style 41",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-09-042",
+        "name": "Pyjama Sets Style 42",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-09-043",
+        "name": "Night Suits Style 43",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-09-044",
+        "name": "Pyjama Sets Style 44",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-09-045",
+        "name": "Night Suits Style 45",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-09-046",
+        "name": "Pyjama Sets Style 46",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-09-047",
+        "name": "Night Suits Style 47",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-09-048",
+        "name": "Pyjama Sets Style 48",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-09-049",
+        "name": "Night Suits Style 49",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-09-050",
+        "name": "Pyjama Sets Style 50",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  },
+  {
+    "name": "Men's Wear",
+    "subs": [
+      "T-Shirts",
+      "Polo T-Shirts",
+      "Bottom Wear"
+    ],
+    "items": [
+      {
+        "id": "LT-10-001",
+        "name": "T-Shirts Style 01",
+        "sub": "T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-10-002",
+        "name": "Polo T-Shirts Style 02",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-10-003",
+        "name": "Bottom Wear Style 03",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-10-004",
+        "name": "T-Shirts Style 04",
+        "sub": "T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-10-005",
+        "name": "Polo T-Shirts Style 05",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-10-006",
+        "name": "Bottom Wear Style 06",
+        "sub": "Bottom Wear",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-10-007",
+        "name": "T-Shirts Style 07",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-10-008",
+        "name": "Polo T-Shirts Style 08",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-10-009",
+        "name": "Bottom Wear Style 09",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-10-010",
+        "name": "T-Shirts Style 10",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-10-011",
+        "name": "Polo T-Shirts Style 11",
+        "sub": "Polo T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-10-012",
+        "name": "Bottom Wear Style 12",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-10-013",
+        "name": "T-Shirts Style 13",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-10-014",
+        "name": "Polo T-Shirts Style 14",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-10-015",
+        "name": "Bottom Wear Style 15",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-10-016",
+        "name": "T-Shirts Style 16",
+        "sub": "T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-10-017",
+        "name": "Polo T-Shirts Style 17",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-10-018",
+        "name": "Bottom Wear Style 18",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-10-019",
+        "name": "T-Shirts Style 19",
+        "sub": "T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-10-020",
+        "name": "Polo T-Shirts Style 20",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-10-021",
+        "name": "Bottom Wear Style 21",
+        "sub": "Bottom Wear",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-10-022",
+        "name": "T-Shirts Style 22",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-10-023",
+        "name": "Polo T-Shirts Style 23",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-10-024",
+        "name": "Bottom Wear Style 24",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-10-025",
+        "name": "T-Shirts Style 25",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-10-026",
+        "name": "Polo T-Shirts Style 26",
+        "sub": "Polo T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-10-027",
+        "name": "Bottom Wear Style 27",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-10-028",
+        "name": "T-Shirts Style 28",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-10-029",
+        "name": "Polo T-Shirts Style 29",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-10-030",
+        "name": "Bottom Wear Style 30",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-10-031",
+        "name": "T-Shirts Style 31",
+        "sub": "T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-10-032",
+        "name": "Polo T-Shirts Style 32",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-10-033",
+        "name": "Bottom Wear Style 33",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-10-034",
+        "name": "T-Shirts Style 34",
+        "sub": "T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-10-035",
+        "name": "Polo T-Shirts Style 35",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-10-036",
+        "name": "Bottom Wear Style 36",
+        "sub": "Bottom Wear",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-10-037",
+        "name": "T-Shirts Style 37",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-10-038",
+        "name": "Polo T-Shirts Style 38",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-10-039",
+        "name": "Bottom Wear Style 39",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-10-040",
+        "name": "T-Shirts Style 40",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-10-041",
+        "name": "Polo T-Shirts Style 41",
+        "sub": "Polo T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-10-042",
+        "name": "Bottom Wear Style 42",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-10-043",
+        "name": "T-Shirts Style 43",
+        "sub": "T-Shirts",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-10-044",
+        "name": "Polo T-Shirts Style 44",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-10-045",
+        "name": "Bottom Wear Style 45",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-10-046",
+        "name": "T-Shirts Style 46",
+        "sub": "T-Shirts",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-10-047",
+        "name": "Polo T-Shirts Style 47",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-10-048",
+        "name": "Bottom Wear Style 48",
+        "sub": "Bottom Wear",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-10-049",
+        "name": "T-Shirts Style 49",
+        "sub": "T-Shirts",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-10-050",
+        "name": "Polo T-Shirts Style 50",
+        "sub": "Polo T-Shirts",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  },
+  {
+    "name": "Men's Nightwear",
+    "subs": [
+      "Night Suits",
+      "Pyjama Sets"
+    ],
+    "items": [
+      {
+        "id": "LT-11-001",
+        "name": "Night Suits Style 01",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 0
+      },
+      {
+        "id": "LT-11-002",
+        "name": "Pyjama Sets Style 02",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 1
+      },
+      {
+        "id": "LT-11-003",
+        "name": "Night Suits Style 03",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 2
+      },
+      {
+        "id": "LT-11-004",
+        "name": "Pyjama Sets Style 04",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 3
+      },
+      {
+        "id": "LT-11-005",
+        "name": "Night Suits Style 05",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 4
+      },
+      {
+        "id": "LT-11-006",
+        "name": "Pyjama Sets Style 06",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 5
+      },
+      {
+        "id": "LT-11-007",
+        "name": "Night Suits Style 07",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 6
+      },
+      {
+        "id": "LT-11-008",
+        "name": "Pyjama Sets Style 08",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 7
+      },
+      {
+        "id": "LT-11-009",
+        "name": "Night Suits Style 09",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 8
+      },
+      {
+        "id": "LT-11-010",
+        "name": "Pyjama Sets Style 10",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 9
+      },
+      {
+        "id": "LT-11-011",
+        "name": "Night Suits Style 11",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 10
+      },
+      {
+        "id": "LT-11-012",
+        "name": "Pyjama Sets Style 12",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 11
+      },
+      {
+        "id": "LT-11-013",
+        "name": "Night Suits Style 13",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 0
+      },
+      {
+        "id": "LT-11-014",
+        "name": "Pyjama Sets Style 14",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 1
+      },
+      {
+        "id": "LT-11-015",
+        "name": "Night Suits Style 15",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 2
+      },
+      {
+        "id": "LT-11-016",
+        "name": "Pyjama Sets Style 16",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 3
+      },
+      {
+        "id": "LT-11-017",
+        "name": "Night Suits Style 17",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 4
+      },
+      {
+        "id": "LT-11-018",
+        "name": "Pyjama Sets Style 18",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 5
+      },
+      {
+        "id": "LT-11-019",
+        "name": "Night Suits Style 19",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 6
+      },
+      {
+        "id": "LT-11-020",
+        "name": "Pyjama Sets Style 20",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 7
+      },
+      {
+        "id": "LT-11-021",
+        "name": "Night Suits Style 21",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 8
+      },
+      {
+        "id": "LT-11-022",
+        "name": "Pyjama Sets Style 22",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 9
+      },
+      {
+        "id": "LT-11-023",
+        "name": "Night Suits Style 23",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 10
+      },
+      {
+        "id": "LT-11-024",
+        "name": "Pyjama Sets Style 24",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 11
+      },
+      {
+        "id": "LT-11-025",
+        "name": "Night Suits Style 25",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 0
+      },
+      {
+        "id": "LT-11-026",
+        "name": "Pyjama Sets Style 26",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 1
+      },
+      {
+        "id": "LT-11-027",
+        "name": "Night Suits Style 27",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 2
+      },
+      {
+        "id": "LT-11-028",
+        "name": "Pyjama Sets Style 28",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 3
+      },
+      {
+        "id": "LT-11-029",
+        "name": "Night Suits Style 29",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 4
+      },
+      {
+        "id": "LT-11-030",
+        "name": "Pyjama Sets Style 30",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 5
+      },
+      {
+        "id": "LT-11-031",
+        "name": "Night Suits Style 31",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Ivory / Sage",
+        "visual": 6
+      },
+      {
+        "id": "LT-11-032",
+        "name": "Pyjama Sets Style 32",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Navy / White",
+        "visual": 7
+      },
+      {
+        "id": "LT-11-033",
+        "name": "Night Suits Style 33",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Blush / Cream",
+        "visual": 8
+      },
+      {
+        "id": "LT-11-034",
+        "name": "Pyjama Sets Style 34",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 9
+      },
+      {
+        "id": "LT-11-035",
+        "name": "Night Suits Style 35",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Sky / Sand",
+        "visual": 10
+      },
+      {
+        "id": "LT-11-036",
+        "name": "Pyjama Sets Style 36",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Ivory / Sage",
+        "visual": 11
+      },
+      {
+        "id": "LT-11-037",
+        "name": "Night Suits Style 37",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Navy / White",
+        "visual": 0
+      },
+      {
+        "id": "LT-11-038",
+        "name": "Pyjama Sets Style 38",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Blush / Cream",
+        "visual": 1
+      },
+      {
+        "id": "LT-11-039",
+        "name": "Night Suits Style 39",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 160,
+        "fit": "Comfort Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 2
+      },
+      {
+        "id": "LT-11-040",
+        "name": "Pyjama Sets Style 40",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 180,
+        "fit": "Premium Fit",
+        "colors": "Sky / Sand",
+        "visual": 3
+      },
+      {
+        "id": "LT-11-041",
+        "name": "Night Suits Style 41",
+        "sub": "Night Suits",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 200,
+        "fit": "Regular Fit",
+        "colors": "Ivory / Sage",
+        "visual": 4
+      },
+      {
+        "id": "LT-11-042",
+        "name": "Pyjama Sets Style 42",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Interlock",
+        "gsm": 220,
+        "fit": "Relaxed Fit",
+        "colors": "Navy / White",
+        "visual": 5
+      },
+      {
+        "id": "LT-11-043",
+        "name": "Night Suits Style 43",
+        "sub": "Night Suits",
+        "fabric": "Cotton Rib",
+        "gsm": 140,
+        "fit": "Comfort Fit",
+        "colors": "Blush / Cream",
+        "visual": 6
+      },
+      {
+        "id": "LT-11-044",
+        "name": "Pyjama Sets Style 44",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton French Terry",
+        "gsm": 150,
+        "fit": "Premium Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 7
+      },
+      {
+        "id": "LT-11-045",
+        "name": "Night Suits Style 45",
+        "sub": "Night Suits",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 160,
+        "fit": "Regular Fit",
+        "colors": "Sky / Sand",
+        "visual": 8
+      },
+      {
+        "id": "LT-11-046",
+        "name": "Pyjama Sets Style 46",
+        "sub": "Pyjama Sets",
+        "fabric": "100% Cotton Single Jersey",
+        "gsm": 180,
+        "fit": "Relaxed Fit",
+        "colors": "Ivory / Sage",
+        "visual": 9
+      },
+      {
+        "id": "LT-11-047",
+        "name": "Night Suits Style 47",
+        "sub": "Night Suits",
+        "fabric": "Cotton Interlock",
+        "gsm": 200,
+        "fit": "Comfort Fit",
+        "colors": "Navy / White",
+        "visual": 10
+      },
+      {
+        "id": "LT-11-048",
+        "name": "Pyjama Sets Style 48",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Rib",
+        "gsm": 220,
+        "fit": "Premium Fit",
+        "colors": "Blush / Cream",
+        "visual": 11
+      },
+      {
+        "id": "LT-11-049",
+        "name": "Night Suits Style 49",
+        "sub": "Night Suits",
+        "fabric": "Cotton French Terry",
+        "gsm": 140,
+        "fit": "Regular Fit",
+        "colors": "Charcoal / Ecru",
+        "visual": 0
+      },
+      {
+        "id": "LT-11-050",
+        "name": "Pyjama Sets Style 50",
+        "sub": "Pyjama Sets",
+        "fabric": "Cotton Lycra Blend",
+        "gsm": 150,
+        "fit": "Relaxed Fit",
+        "colors": "Sky / Sand",
+        "visual": 1
+      }
+    ]
+  }
+]
